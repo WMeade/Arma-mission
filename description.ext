@@ -1,0 +1,30 @@
+/*class CfgFunctions
+{
+	#include "functions\CfgFunctions.hpp"
+};*/
+class CfgFunctions
+{
+	class CO
+	{
+		class spawning
+		{
+			file = "functions\spawning";
+			class enemyAssault {};
+			class createMarker {};
+			class garrisonBuilding {};
+			class selectTown {};
+		};
+		class tasks
+		{
+			file = "functions\tasks";
+			class taskCreator {};
+		}
+		class missions
+		{
+			file = "functions\missions";
+			class townClear {};
+			class sabotageCache {};
+		};
+	};
+};
+allowFunctionsRecompile = 1;

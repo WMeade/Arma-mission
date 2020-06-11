@@ -1,0 +1,30 @@
+-Infantry:
+	-Hostile takeover (Clear town) + Command hq?
+	-Sabotage (Supply cache)
+	-Defend town (conventional)
+	-Defend ally (Idap/friendly from guerrilla/recon)
+-Airforce:
+	-Troop transport
+	-Supply transport (Helicopter)
+	-Air superiority (Destroy enemy aircraft)
+	-Ground support (Destroy attacking ground vehicles)
+-Recon:
+	-Sabotage (Enemy LRAA/LRArty)
+	-UAV Data
+	-Patrol
+	-Search and rescue
+	-Anti recon
+-Logistics:
+	-Missing supply crate
+	-Supply transprt (Drive vehicle to random location)
+-Special forces:
+	-Hostage rescue
+	-Assassination
+	-Snatch and grab
+	-Intel recovery (From enemy).
+	-Intercaption 
+	-Underwater recovery
+	-Underwater EOD
+	-Anti-Piracy.
+	-Steal Prototype Technology (Vehicle)
+	
