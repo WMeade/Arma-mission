@@ -1,0 +1,52 @@
+/*class CfgFunctions
+{
+	#include "functions\CfgFunctions.hpp"
+};*/
+class CfgFunctions
+{
+	class CO
+	{
+		class spawning
+		{
+			file = "functions\spawning";
+			class enemyAssault {};
+			class createMarker {};
+			class garrisonBuilding {};
+			class waveMaster {};
+			class selectTown {};
+			class spawnComposition {};
+			class reconCamp {};
+	    class fobBase {};
+		};
+		class math
+		{
+			class actualVectorDotProduct {};
+		};
+		class actions
+		{
+			class leadAI {};
+			class stopLeadAI {};
+		};
+		class tasks
+		{
+			file = "functions\tasks";
+			class taskCreator {};
+			class isAreaClear {};
+			class defendFinisher {};
+			class nearestPlayer {};
+			class cleanup {};
+		};
+		class missions
+		{
+			file = "functions\missions";
+			class townClear {};
+			class townDefend {};
+			class sabotageCache {};
+			class reconSabotage {};
+			class reconRescue {};
+			class reconAntirecon {};
+		};
+	};
+};
+allowFunctionsRecompile = 1;
+enableDebugConsole = 2;
